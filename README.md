@@ -23,7 +23,7 @@ Link: https://archive.ics.uci.edu/ml/datasets/Auto+MPG
 
 [INSTRUCTIONS]
 
-1- Version of Python - 3.7
-2- Librarys: pandas, numpy and matplotlib.pyplot 
-3- Replace the variable "LOCAL_FILE" for the local where the Auto-Mpg Data file is located.
-4- Replace the variable "LOCAL_RESULTS" where you'd like to save your results.
+- 1- Version of Python - 3.7
+- 2- Librarys: pandas, numpy and matplotlib.pyplot 
+- 3- Replace the variable "LOCAL_FILE" for the local where the Auto-Mpg Data file is located.
+- 4- Replace the variable "LOCAL_RESULTS" where you'd like to save your results.
