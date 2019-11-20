@@ -61,9 +61,9 @@ def transform_data(df):
 if __name__ == '__main__':
 
     #Passando local do arquivo
-    path = "C://Users//joni_//Desktop//KNN-REGRESSION//auto-mpg.csv"
+    path = LOCAL_FILE
     results = 'Resultados.csv'
-    path_results = "C://Users//joni_//Desktop//KNN-REGRESSION//Resultados//"
+    path_results = LOCAL_RESULTS
     chart = 'Resultados.png'
 
     #Importando base de dados
