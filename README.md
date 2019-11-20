@@ -10,15 +10,15 @@ Link: https://archive.ics.uci.edu/ml/datasets/Auto+MPG
 
 [ATTRIBUTES]
 
-    - 1. mpg
-    - 2. cylinders
-    - 3. displacement
-    - 4. horsepower
-    - 5. weight
-    - 6. acceleration
-    - 7. model year
-    - 8. origin
-    - 9. car name
+    1. mpg
+    2. cylinders
+    3. displacement
+    4. horsepower
+    5. weight
+    6. acceleration
+    7. model year
+    8. origin
+    9. car name
 
 
 [INSTRUCTIONS]
