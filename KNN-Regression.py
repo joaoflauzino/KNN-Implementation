@@ -38,7 +38,7 @@ def knn_regression(train, observation, k):
 #Função para transformar os dados
 def transform_data(df):
 
-    #Remove categorial variables
+    #Remover variaveis categoricas
     columns = ['origin', 'car name', 'model year']
 
     for element in columns:
