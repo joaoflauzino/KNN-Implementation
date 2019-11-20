@@ -8,7 +8,7 @@ The goal of this project is to estimate how many miles per gallon each car will 
 
 Link: https://archive.ics.uci.edu/ml/datasets/Auto+MPG
 
-[ATTRIBUTES]
+# ATTRIBUTES
 
     1. mpg
     2. cylinders
@@ -21,7 +21,7 @@ Link: https://archive.ics.uci.edu/ml/datasets/Auto+MPG
     9. car name
 
 
-[INSTRUCTIONS]
+# INSTRUCTIONS
 
 - 1- Version of Python - 3.7
 - 2- Librarys: pandas, numpy and matplotlib.pyplot 
